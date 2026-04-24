@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit: Professional Deal Scraper Web"
-git branch -M main
-git remote add origin [رابط_مستودعك]
-git push -u origin main
